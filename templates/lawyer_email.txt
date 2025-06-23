@@ -1,0 +1,8 @@
+Hello {{name}},
+
+I'm reaching out from Painsnap.tech because we help clients find the right legal representation after an accident. We often hear from injured people in {{city}}, and I thought your firm, {{firm}}, might be interested in additional client referrals.
+
+Let me know if you'd like to learn more.
+
+Best,
+The Painsnap Team
